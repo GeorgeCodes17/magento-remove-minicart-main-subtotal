@@ -1,0 +1,9 @@
+/* Remove 'subtotal:' heading */
+#minicart-content-wrapper .block-content .subtotal .label{
+    display: none;
+}
+
+/* Remove main subtotal amount */
+.amount.price-container .price-wrapper .price{
+    display: none;
+}

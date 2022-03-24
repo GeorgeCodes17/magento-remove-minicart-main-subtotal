@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:Module/etc/module.xsd">
+    <!-- The below adds the remove subtotal css file into the website head -->
+    <head>
+        <css src="Training_RemoveSubtotal::css/remove-subtotal.css"/>
+    </head>
+</page>
